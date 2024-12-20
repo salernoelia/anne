@@ -1,2 +1,2 @@
 # anne
- Documentation of the anne ecosystem and
+ Documentation of the anne ecosystem
